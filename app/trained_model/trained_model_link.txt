@@ -1,0 +1,1 @@
+Trained plant disease prediction model link: https://drive.google.com/file/d/1cDhm-PhHJZrbVHORn72S7rNDKYwld_HI/view?usp=sharing

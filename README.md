@@ -17,7 +17,7 @@ Additionally, we discovered the importance of clean, high-quality data in buildi
 We started by gathering a dataset of plant leaf images, with each image labeled as either healthy or diseased. We used popular machine learning libraries such as TensorFlow and Keras to build our image classification model. Here's a breakdown of the steps we followed:
 
 - Data Collection: We sourced leaf images from various public datasets, ensuring a wide variety of plants and diseases were covered.
--Data Preprocessing: Images were resized, augmented, and normalized to standardize the inputs for the model.
+- Data Preprocessing: Images were resized, augmented, and normalized to standardize the inputs for the model.
 - Model Training: We utilized Convolutional Neural Networks (CNNs), a popular deep learning architecture for image recognition tasks, to train the model.
 - Testing & Optimization: We fine-tuned the model, adjusting hyperparameters and experimenting with different architectures to improve its performance.
 - User Interface: We developed a simple, user-friendly interface where users can upload an image of a plant leaf and instantly receive a diagnosis.
